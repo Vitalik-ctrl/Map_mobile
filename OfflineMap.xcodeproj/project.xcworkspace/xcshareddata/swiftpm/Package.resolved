@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GLMap",
+        "repositoryURL": "https://github.com/GLMap/GLMapSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "192110bbe678026191f3634af869d2ec894ec8dd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
