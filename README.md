@@ -16,7 +16,7 @@ To begin using the Offline Maps project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/OfflineMaps.git
+   git clone https://github.com/Vitalik-ctrl/Map_mobile.git
 
 2. **CocoaPods Installation**:
 
